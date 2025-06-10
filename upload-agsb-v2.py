@@ -35,7 +35,7 @@ USER_NAME = "xmingl"         # 用户名
 UUID = "09f038dd-0bc2-4ad7-bcb7-539788a6f7c6"                     # UUID，留空则自动生成
 PORT = 9876                   # Vmess端口，留空或0则自动生成
 DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiODBmMjY5ZmQ1N2QzNzNiMmMzZTBkODc4ODg1NWM5MzIiLCJ0IjoiZmVhMzBmODUtOGY5OC00ZTVmLTkyZTktMmU2OTk2M2E1YzUyIiwicyI6Ik4yTmlZemxpTlRjdE5UVm1PQzAwTjJZekxXRmpORGt0TVdVNE5HUmtORGN3TldObSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiNTE4M2Y0MTMxZDg2YzA5MTc1NTkxYTAyNDNiNWY2NjkiLCJ0IjoiM2Q2YWZlMTAtZGIzNC00OGRhLThjYTQtZDFkYzgxM2MyYWE0IiwicyI6Ik1tWTRabUk1TXpjdE1HSXhNUzAwWlRBM0xUZzNPV1F0TXpBMVlUWm1ZVFJpWVRObCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
