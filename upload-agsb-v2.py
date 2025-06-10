@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "xmingl"         # 用户名
 UUID = "09f038dd-0bc2-4ad7-bcb7-539788a6f7c6"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "xj.cxuehuaa.dpdns.org"                   # 域名，留空则自动获取
+DOMAIN = "cxuehuaa.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNTE4M2Y0MTMxZDg2YzA5MTc1NTkxYTAyNDNiNWY2NjkiLCJ0IjoiM2Q2YWZlMTAtZGIzNC00OGRhLThjYTQtZDFkYzgxM2MyYWE0IiwicyI6Ik1tWTRabUk1TXpjdE1HSXhNUzAwWlRBM0xUZzNPV1F0TXpBMVlUWm1ZVFJpWVRObCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
